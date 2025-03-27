@@ -4,11 +4,11 @@
 A **persistent problem-solver** who enjoys the process of building things — usually a combination of optimized data pipelines, scalable APIs, machine learning models.
 
 ---
-- I enjoy being a **generalist**, but I make **concerted efforts** to continuously brush up on and stay updated with concepts and trends in:
+I enjoy being a **generalist**, but I make **concerted efforts** to continuously brush up on and stay updated with concepts and trends in:
    - **Server-side/Big-Data Engineering**  
    - **ML-Ops**  
 
-- I primarily work with **Python-based frameworks and libraries**, along with different flavors of **SQL** to ensure robust and scalable solutions.
+I primarily work with **Python-based frameworks and libraries**, along with different flavors of **SQL** to ensure robust and scalable solutions.
 
 ---
 
