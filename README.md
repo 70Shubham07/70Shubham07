@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Shubham Kumar!
+## 👋 Namaste! Hello!, 
+## I'm Shubham Kumar!
 
 I am a **persistent problem-solver** who enjoys the process of building things — whether it's optimizing data pipelines, designing scalable APIs, or fine-tuning machine learning models.
 
