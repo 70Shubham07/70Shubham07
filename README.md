@@ -28,9 +28,10 @@ I primarily work with **Python-based frameworks and libraries**, along with diff
 ---
 
 ### 🚀 **What I'm Currently Exploring**
-- Advanced ML model deployment strategies.
+- ML model deployment strategies.
 - Low-latency APIs for big data processing.
 - Distributed systems and efficient data pipelines.
+- Integrating LLM-capabilties into existing workflows.
 
 ---
 
