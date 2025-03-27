@@ -8,7 +8,7 @@ I enjoy being a **generalist**, but I make **concerted efforts** to continuously
    - **Server-side/Big-Data Engineering**  
    - **ML-Ops**  
 
-I primarily work with **Python-based frameworks and libraries**, along with different flavors of **SQL** to ensure robust and scalable solutions.
+I primarily work with **Python-based frameworks and libraries**, along with different flavors of **SQL**.
 
 ---
 
