@@ -22,7 +22,8 @@ I primarily work with **Python-based frameworks and libraries**, along with diff
     - DynamoDB  
     - Lambda  
     - Redshift  
-    - Glue  
+    - Glue
+    - ... and many many others.
 
 ---
 
