@@ -4,8 +4,6 @@
 A **persistent problem-solver** who enjoys the process of building things — usually a combination of optimized data pipelines, scalable APIs, machine learning models.
 
 ---
-
-### 🎯 **My Approach**
 - I enjoy being a **generalist**, but I make **concerted efforts** to continuously brush up on and stay updated with concepts and trends in:
    - **Server-side/Big-Data Engineering**  
    - **ML-Ops**  
