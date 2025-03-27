@@ -36,7 +36,5 @@ I primarily work with **Python-based frameworks and libraries**, along with diff
 ---
 
 ### 📫 **Let's Connect!**
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/shubham-kumar)  
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/shub-kumar)  
 
