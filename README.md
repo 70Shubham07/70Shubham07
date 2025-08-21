@@ -14,7 +14,7 @@ I primarily work with **Python-based frameworks and libraries**, along with diff
 
 ### 🛠️ **My Most Frequently Used Tools**
 - ⚡ **PySpark** – Along with Pandas, NumPy, and other usual suspects in the world of data-wrangling and ETL-enabling APIs.  
-- 🌐 **Flask/Django** – Experience with building APIs, but minimal use of ORMs.  
+- 🌐 **FastApi/Flask/Django** – Experience with building APIs, but minimal use of ORMs.  
 - 🔥 **PyTorch** – For building and training machine learning models.  
 - 📚 **MySQL / MongoDB** – Working with both relational and NoSQL databases.  
 - ☁️ **AWS Services** – Experienced with:  
