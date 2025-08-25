@@ -1,7 +1,7 @@
 ## 👋 Namaste! Hello!, 
 ## I'm Shubham Kumar!
 
-A **persistent problem-solver** who loves the process of building things — usually a combination of optimized data pipelines, scalable APIs, machine learning models.
+A **persistent problem-solver** who loves the process of building things - usually a combination of optimized data pipelines, scalable APIs, machine learning models.
 
 ---
 I prefer to keep the mindset of a **generalist**, but I simultaneously make **concerted efforts** to continuously brush up on and stay updated with concepts and trends in:
